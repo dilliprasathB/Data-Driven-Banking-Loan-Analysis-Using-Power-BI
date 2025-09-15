@@ -3,11 +3,10 @@ This project is to analyze banking client and loan data using Power BI, by creat
 # Banking-Domain-Analysis/
 │── data/
      
-     └── <a href="https://github.com/dilliprasathB/Data-Driven-Banking-Loan-Analysis-Using-Power-BI/blob/main/Banking_domain.pbix">Bamking Data Set </a>
+     └──<a href="https://github.com/dilliprasathB/Data-Driven-Banking-Loan-Analysis-Using-Power-BI/blob/main/Banking_domain.pbix">Bamking Data Set </a>
 
 │── dashboard/
-    
-    └── Banking_domain.pbix
+     └── Banking_domain.pbix
 
 │── notebooks/
     
