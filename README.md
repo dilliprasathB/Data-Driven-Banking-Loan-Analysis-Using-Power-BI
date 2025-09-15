@@ -68,7 +68,7 @@ Correlation heatmap for numerical variables.
 
 Boxplots for balance, age, and loan amounts.
 
-Deliverables:
+#### Deliverables:
 
 Visualizations (histograms, bar charts, heatmaps, boxplots).
 
