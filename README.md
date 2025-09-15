@@ -12,8 +12,8 @@ NoteBook
 
 Readme
  --><a href="https://github.com/dilliprasathB/Data-Driven-Banking-Loan-Analysis-Using-Power-BI/blob/main/README.md">README.md</a>
-#🚀 Project Process
-//1. Problem Statement
+# 🚀 Project Process
+## 1. Problem Statement
 
 Analyze the banking dataset to uncover customer behavior, financial patterns, and business insights.
 
