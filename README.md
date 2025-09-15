@@ -87,3 +87,5 @@ Loan approvals and defaults
 Deposits and balances
 
 Risk & segmentation
+## model Dashboard
+<img src="C:\Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot 2025-09-15 235632.png">
