@@ -8,4 +8,4 @@ Dash Board
 --><a href="https://github.com/dilliprasathB/Data-Driven-Banking-Loan-Analysis-Using-Power-BI/blob/main/Banking_domain.pbix"> Banking Dashboard</a>
 
 NoteBook
- -->EDA.ipynb
+ --><a href="https://github.com/dilliprasathB/Data-Driven-Banking-Loan-Analysis-Using-Power-BI/blob/main/_Banking_Domain.ipynb">EDA.ipynb</a>
